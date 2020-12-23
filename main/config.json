@@ -1,0 +1,39 @@
+{
+    "ApiREST": 
+    {
+        "ValidCommands":{
+
+            "GET":[
+                "get_clip_recorder_info"
+            ],
+            
+            "POST":[
+                "run_event",
+                "set_clip_duration",
+                "set_ip_RTSP",
+                "set_socket_api_port",
+                "set_verbosity_level",
+                "set_camera_MAC",
+                "set_fileRoot"
+            ],
+            
+            "PUT":[
+                "run_event",
+                "set_clip_duration",
+                "set_ip_RTSP",
+                "set_socket_api_port",
+                "set_verbosity_level",
+                "set_camera_MAC",
+                "set_fileRoot"
+            ]
+        }
+    },
+    "Events":
+    {
+        "ValidEvents":[
+            "record_request",
+            "movement_event",
+            "sound_event"
+        ]
+    }
+}

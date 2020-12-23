@@ -1,0 +1,32 @@
+{
+    "RTSPServer": 
+    {
+        "status": true,
+        "file": "test.264"
+    },
+    "RTSPClient":
+    {
+        "duration": 5,
+        "applicationName": "clipRecoder",
+        "verbosityLevel": 1,
+        "fileRoot": "clips/"
+    },
+    "Camera":
+    {
+        "MAC": "00:00:00:00:00:00"
+    },
+    "Events":
+    {
+        "ValidEvents":[
+            "record_request",
+            "movement_event",
+            "sound_event"
+        ]
+    },
+    "ClipRecorderInfo":{
+        "Camera":["MAC"],
+        "RTSPServer":["status","file"],
+        "RTSPClient":["duration","fileRoot","verbosityLevel"],
+        "Events":["validEvents"]
+    }
+}

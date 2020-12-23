@@ -1,0 +1,142 @@
+{
+	"info": {
+		"_postman_id": "e7784562-1171-40cf-93b7-fd09a236c3ad",
+		"name": "Camera Emulator",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "1 - Set Camera MAC",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"command\":\"set_camera_MAC\",\n    \"args\":\"AA:BB:CC:DD:EE:FF\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:5052/eventClipManager.json",
+					"host": [
+						"localhost"
+					],
+					"port": "5052",
+					"path": [
+						"eventClipManager.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2 - Run Event",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"command\":\"run_event\",\n    \"args\":\"movement_event\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:5052/eventClipManager.json",
+					"host": [
+						"localhost"
+					],
+					"port": "5052",
+					"path": [
+						"eventClipManager.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3 - Set clip duration",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"command\":\"set_clip_duration\",\n    \"args\":\"10\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:5052/eventClipManager.json",
+					"host": [
+						"localhost"
+					],
+					"port": "5052",
+					"path": [
+						"eventClipManager.json"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getVideoClip",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://200.32.54.152:50040/videoclips?cameraMac=AA:BB:CC:DD:EE:FF&timestamp=12/23/20%2014:27:28",
+					"protocol": "http",
+					"host": [
+						"200",
+						"32",
+						"54",
+						"152"
+					],
+					"port": "50040",
+					"path": [
+						"videoclips"
+					],
+					"query": [
+						{
+							"key": "cameraMac",
+							"value": "AA:BB:CC:DD:EE:FF"
+						},
+						{
+							"key": "timestamp",
+							"value": "12/23/20%2014:27:28"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getMetadata",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/videoclips/getList",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"videoclips",
+						"getList"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

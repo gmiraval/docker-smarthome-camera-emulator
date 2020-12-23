@@ -1,0 +1,333 @@
+{
+    "videoClipEvents": [
+        {
+            "cameraId": 1,
+            "event": "event",
+            "filename": "video-file-name-1138879073.264",
+            "send_ACK": false,
+            "time": "11/24/20-10:21:14"
+        },
+        {
+            "cameraId": 1,
+            "event": "event",
+            "filename": "video-file-name-496349311.264",
+            "send_ACK": false,
+            "time": "11/24/20-10:41:13"
+        },
+        {
+            "cameraId": 1,
+            "event": "event",
+            "filename": "video-file-name-1425364777.264",
+            "send_ACK": false,
+            "time": "11/24/20-10:45:10"
+        },
+        {
+            "cameraId": 1,
+            "event": "event",
+            "filename": "video-file-name-668935892.264",
+            "send_ACK": false,
+            "time": "11/24/20-10:45:16"
+        },
+        {
+            "cameraId": 1,
+            "event": "event",
+            "filename": "video-file-name-980525847.264",
+            "send_ACK": false,
+            "time": "11/25/20-11:37:09"
+        },
+        {
+            "cameraId": 1,
+            "event": "event",
+            "filename": "video-file-name-617923865.264",
+            "send_ACK": false,
+            "time": "11/26/20-13:01:19"
+        },
+        {
+            "cameraId": 1,
+            "event": "KEYBOARD_EVENT",
+            "filename": "video-file-name-124469126.264",
+            "send_ACK": false,
+            "time": "11/26/20-14:23:54"
+        },
+        {
+            "cameraId": 1,
+            "event": "KEYBOARD_EVENT",
+            "filename": "video-file-name-1850986220.264",
+            "send_ACK": false,
+            "time": "11/26/20-14:24:13"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "video-file-name-1748847322.264",
+            "send_ACK": false,
+            "time": "11/26/20-14:24:31"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "video-file-name-1424395503.264",
+            "send_ACK": false,
+            "time": "11/26/20-15:50:02"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "video-file-name-1478875657.264",
+            "send_ACK": false,
+            "time": "11/26/20-15:51:23"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "video-file-name-1048335642.264",
+            "send_ACK": false,
+            "time": "11/26/20-15:53:28"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "video-file-name-1843198693.264",
+            "send_ACK": false,
+            "time": "11/26/20-16:21:33"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "video-file-name-368177322.264",
+            "send_ACK": false,
+            "time": "11/26/20-16:21:59"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "video-file-name-251008816.264",
+            "send_ACK": false,
+            "time": "11/26/20-16:25:03"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "video-file-name-1684926991.264",
+            "send_ACK": false,
+            "time": "11/26/20-16:26:23"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "video-file-name-932558173.264",
+            "send_ACK": false,
+            "time": "11/26/20-16:28:22"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "video-file-name-32508624.264",
+            "send_ACK": false,
+            "time": "11/26/20-16:28:32"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-824386470.264",
+            "send_ACK": false,
+            "time": "11/26/20-16:42:05"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-932408279.264",
+            "send_ACK": false,
+            "time": "11/27/20-11:36:41"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-979229017.264",
+            "send_ACK": false,
+            "time": "11/27/20-11:36:55"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-2015640506.264",
+            "send_ACK": false,
+            "time": "11/27/20-11:49:13"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-1367800643.264",
+            "send_ACK": false,
+            "time": "11/27/20-11:56:40"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-1866732659.264",
+            "send_ACK": false,
+            "time": "11/27/20-12:02:42"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-1410280115.264",
+            "send_ACK": false,
+            "time": "11/27/20-12:06:33"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-1928504850.264",
+            "send_ACK": false,
+            "time": "11/27/20-12:11:49"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-972026309.264",
+            "send_ACK": false,
+            "time": "12/01/20-12:55:25"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-17720857.264",
+            "send_ACK": false,
+            "time": "12/09/20-09:28:28"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-66537356.264",
+            "send_ACK": false,
+            "time": "12/09/20-09:28:42"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-130976811.264",
+            "send_ACK": false,
+            "time": "12/09/20-10:29:50"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-400919185.264",
+            "send_ACK": false,
+            "time": "12/09/20-10:38:14"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-51777633.264",
+            "send_ACK": false,
+            "time": "12/09/20-10:41:47"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-100892117.264",
+            "send_ACK": false,
+            "time": "12/09/20-10:43:01"
+        },
+        {
+            "cameraId": 2,
+            "event": "KEYBOARD_EVENT",
+            "filename": "clips/video-file-name-333086587.264",
+            "send_ACK": false,
+            "time": "12/09/20-10:43:39"
+        },
+        {
+            "cameraId": 2,
+            "event": "",
+            "filename": "clips/video-file-name-1935479001.264",
+            "send_ACK": false,
+            "time": "12/09/20-10:53:41"
+        },
+        {
+            "cameraId": 2,
+            "event": "",
+            "filename": "clips/video-file-name-425892159.264",
+            "send_ACK": false,
+            "time": "12/09/20-10:53:46"
+        },
+        {
+            "cameraId": 2,
+            "event": "",
+            "filename": "clips/video-file-name-1041258745.264",
+            "send_ACK": false,
+            "time": "12/09/20-10:53:51"
+        },
+        {
+            "cameraId": 2,
+            "event": "",
+            "filename": "clips/video-file-name-347457995.264",
+            "send_ACK": false,
+            "time": "12/09/20-16:18:42"
+        },
+        {
+            "cameraId": 2,
+            "event": "",
+            "filename": "clips/video-file-name-322339065.264",
+            "send_ACK": false,
+            "time": "12/09/20-16:20:28"
+        },
+        {
+            "cameraId": 2,
+            "event": "",
+            "filename": "clips/video-file-name-411432807.264",
+            "send_ACK": false,
+            "time": "12/09/20-16:20:56"
+        },
+        {
+            "cameraId": 2,
+            "event": "",
+            "filename": "clips/video-file-name-758652409.264",
+            "send_ACK": false,
+            "time": "12/09/20-16:25:02"
+        },
+        {
+            "cameraId": 2,
+            "event": "",
+            "filename": "clips/video-file-name-2045603405.264",
+            "send_ACK": false,
+            "time": "12/09/20-16:37:58"
+        },
+        {
+            "cameraId": 2,
+            "event": "",
+            "filename": "clips/video-file-name-1604637852.264",
+            "send_ACK": false,
+            "time": "12/09/20-16:38:03"
+        },
+        {
+            "cameraId": 2,
+            "event": "",
+            "filename": "clips/video-file-name-1142843961.264",
+            "send_ACK": false,
+            "time": "12/09/20-16:38:08"
+        },
+        {
+            "cameraId": 2,
+            "event": "",
+            "filename": "clips/video-file-name-416705733.264",
+            "send_ACK": false,
+            "time": "12/09/20-16:38:21"
+        },
+        {
+            "cameraId": 2,
+            "event": "",
+            "filename": "clips/video-file-name-1046178233.264",
+            "send_ACK": false,
+            "time": "12/09/20-16:38:26"
+        },
+        {
+            "cameraId": 2,
+            "event": "",
+            "filename": "clips/video-file-name-606763251.264",
+            "send_ACK": false,
+            "time": "12/09/20-16:38:31"
+        }
+    ]
+}
